@@ -1,1 +1,1 @@
-# mcodingserver
+# private mcgserver
